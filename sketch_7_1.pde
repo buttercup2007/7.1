@@ -31,6 +31,6 @@ switch(getalLeeftijd) {
   case 18:
   println("tiener");
   default:
-  println ("mens");
+  println ("deze leeftijd ken ik niet");
   break;
 }
